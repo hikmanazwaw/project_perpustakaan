@@ -81,30 +81,30 @@ Berikut adalah tampilan antarmuka dari aplikasi Mini Digital Perpustakaan:
 
 ### 1. Halaman Login
 
-![Halaman Login](screenshoot/1login.png)
+![Halaman Login](screenshot/1login.png)
 _Keterangan: Halaman awal autentikasi pengguna. Dilengkapi dengan form masukan username, password (dengan toggle perlihatkan password), serta opsi "Remember Me"._
 
 ### 2. Dashboard / Daftar Buku
 
-![Dashboard](screenshoot/2tampilan.png)
+![Dashboard](screenshot/2tampilan.png)
 _Keterangan: Halaman utama setelah berhasil login. Menampilkan tabel daftar koleksi buku, pencarian, status ketersediaan (Tersedia/Dipinjam), serta tombol aksi untuk Tambah, Edit, dan Hapus._
 
 ### 3. Form Tambah Buku
 
-![Tambah Buku](screenshoot/3tambah1.png)
-![Tambah Buku](screenshoot/3tambah2.png)
-![Tambah Buku](screenshoot/4tampilantambah.png)
+![Tambah Buku](screenshot/3tambah1.png)
+![Tambah Buku](screenshot/3tambah2.png)
+![Tambah Buku](screenshot/4tampilantambah.png)
 _Keterangan: Formulir input untuk menambahkan data buku baru ke perpustakaan beserta upload gambar sampul dan pratinjau (preview) gambar._
 
 ### 4. Form Edit Buku
 
-![Edit Buku](screenshoot/5edit.png)
-![Edit Buku](screenshoot/5edit2.png)
+![Edit Buku](screenshot/5edit.png)
+![Edit Buku](screenshot/5edit2.png)
 _Keterangan: Halaman pengubahan data buku yang sudah ada, termasuk opsi pembaruan sampul buku._
 
 ### 5. Konfirmasi Hapus Data
 
-![Hapus Buku](screenshoot/6hapus.png)
+![Hapus Buku](screenshot/6hapus.png)
 _Keterangan: Dialog konfirmasi keamanan saat menghapus data buku untuk mencegah aksi tidak disengaja._
 
 ---
