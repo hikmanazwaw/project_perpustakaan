@@ -1,0 +1,4 @@
+# Cegah eksekusi script PHP di folder upload
+<FilesMatch "\.(php|phtml|php3|php5)$">
+  Require all denied
+</FilesMatch>

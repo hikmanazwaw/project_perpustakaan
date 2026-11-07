@@ -1,0 +1,16 @@
+:root { --brand: #4f46e5; --brand-dark: #3730a3; }
+body { background: #f4f6fb; font-family: 'Segoe UI', system-ui, sans-serif; }
+.app-navbar { background: linear-gradient(90deg, var(--brand-dark), var(--brand)); }
+.btn-primary { background: var(--brand); border-color: var(--brand); }
+.btn-primary:hover { background: var(--brand-dark); border-color: var(--brand-dark); }
+.text-primary { color: var(--brand) !important; }
+.bg-primary { background-color: var(--brand) !important; }
+.card { border-radius: 14px; }
+.stat-card { transition: transform .2s; }
+.stat-card:hover { transform: translateY(-3px); }
+.cover-thumb { width: 48px; height: 64px; object-fit: cover; border-radius: 6px; cursor: pointer; box-shadow: 0 2px 6px rgba(0,0,0,.15); }
+.cover-empty { display: flex; align-items: center; justify-content: center; background: #e9ecef; color: #adb5bd; cursor: default; box-shadow: none; }
+.preview-cover { max-height: 260px; }
+.login-page { background: linear-gradient(135deg, #3730a3, #4f46e5 50%, #7c3aed); }
+.login-card { border-radius: 18px; }
+.table > :not(caption) > * > * { padding: .75rem .6rem; }
