@@ -45,3 +45,7 @@ project_perpustakaan/
 - Koneksi internet diperlukan untuk memuat Bootstrap dari CDN.
 - Cookie "Remember Me" hanya menyimpan username, tidak pernah password.
 - Batas upload PHP (`upload_max_filesize`, `post_max_size`) minimal 2M di `php.ini`.
+
+## Link YouTube
+
+https://youtu.be/BGXWxFxnXnE?si=RBoBsQk9L09BcgY_
