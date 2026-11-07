@@ -91,9 +91,9 @@ _Keterangan: Halaman utama setelah berhasil login. Menampilkan tabel daftar kole
 
 ### 3. Form Tambah Buku
 
-![Tambah Buku](screenshoot/3tambahbuku1.png)
-![Tambah Buku](screenshoot/3tambahbuku2.png)
-![Tambah Buku](screenshoot/3tambahbuku3.png)
+![Tambah Buku](screenshoot/3tambah1.png)
+![Tambah Buku](screenshoot/3tambah2.png)
+![Tambah Buku](screenshoot/4tampilantambah.png)
 _Keterangan: Formulir input untuk menambahkan data buku baru ke perpustakaan beserta upload gambar sampul dan pratinjau (preview) gambar._
 
 ### 4. Form Edit Buku
